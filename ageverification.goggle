@@ -1,6 +1,6 @@
 ! name: No Age Verification sites
 ! description: Removes age verification adult sites from results.
-! public: true
+! public: false
 ! author: me
 ! avatar: #0a7c41
 
