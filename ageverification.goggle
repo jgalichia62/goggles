@@ -1,0 +1,8 @@
+! Name: No Age Verification sites
+! Description: Removes age verification adult sites from results.
+! Public: false
+
+$discard,site=pornhub.com
+$discard,site=xhamster.com
+$discard,site=spankbang.com
+$discard,site=youporn.com
